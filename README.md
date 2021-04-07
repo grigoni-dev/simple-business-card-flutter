@@ -1,6 +1,6 @@
-# mi_card
+# simple-business-card-flutter
 
-A new Flutter application.
+A simple Business Card made with Flutter
 
 ## Getting Started
 
